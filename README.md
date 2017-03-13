@@ -5,3 +5,4 @@
 5. Fuzzy C-Means - Data Mining - Python3
 6. Parallel Binary Search - High Performance Computing - MPI [C++]
 7. Parallel 4 queens Problem - High Performance Computing - MPI [Python]
+8. Parallel Booths Multiplier - High Performance Computing - MPI [Python]
