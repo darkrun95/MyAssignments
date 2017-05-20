@@ -1,3 +1,9 @@
+/*
+Author : Arun Pottekat
+Domain : High Performance Computing
+Problem : Binary Search Tree
+*/
+
 #include <iostream>
 #include <mpi.h>
 #include <stdlib.h>

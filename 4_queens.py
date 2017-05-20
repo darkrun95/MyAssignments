@@ -1,6 +1,9 @@
 """
-7 Queens - mpi4py using 7 processes - 1 master + 7 slaves
+Author : Arun Pottekat
+Domain : High Performance Computing
+Problem : 4 Queens Problem
 """
+
 from mpi4py import MPI 
 import json
 import numpy as np

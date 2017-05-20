@@ -1,3 +1,9 @@
+"""
+Author : Arun Pottekat
+Domain : Artificial Intelligence
+Problem : Water Jug Problem
+"""
+
 class Node(object):
 	def __init__(self, jug1, jug2):
 		self.jug1 = jug1

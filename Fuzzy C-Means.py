@@ -1,8 +1,9 @@
 """
-Fuzzy C Means Algorithm - Pandas 
-
-Author - Midnight Inventers
+Author : Arun Pottekat
+Domain : Data Mining
+Problem : Fuzzy C Means Clustering
 """
+
 import numpy as np
 import pandas as pd
 import timeit

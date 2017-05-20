@@ -1,3 +1,9 @@
+"""
+Author : Arun Pottekat
+Domain : Artificial Intelligence
+Problem : Unification Algorithm
+"""
+
 constants_list = ["1", "2", "3", "4"]
 
 num_predicates = int(input("Enter the number of predicates :- "))

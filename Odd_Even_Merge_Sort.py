@@ -1,3 +1,9 @@
+"""
+Author : Arun Pottekat
+Domain : High Performance Computing
+Problem : Odd Even Merge Sort
+"""
+
 from mpi4py import MPI
 import random
 import numpy as np

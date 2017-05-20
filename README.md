@@ -6,4 +6,5 @@
 6. Parallel Binary Search - High Performance Computing - MPI [C++]
 7. Parallel 4 queens Problem - High Performance Computing - MPI [Python]
 8. Parallel Booths Multiplier - High Performance Computing - MPI [Python]
-8. Parallel Odd Even Merge Sort - High Performance Computing - MPI [Python]
+9. Parallel Odd Even Merge Sort - High Performance Computing - MPI [Python]
+10. Karatsuba Multiplication - Algorithms - Python3

@@ -1,3 +1,9 @@
+"""
+Author : Arun Pottekat
+Domain : Data Mining 
+Problem : Naive Bayes
+"""
+
 # sample.txt
 # Consultancy,30,Ph.D,9
 # Service,21,MTech,1

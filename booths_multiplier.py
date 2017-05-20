@@ -1,5 +1,7 @@
 """
-Parallel implementation of booth's multiplier using mpi4py 
+Author : Arun Pottekat
+Domain : High Performance Computing
+Problem : Booths Multiplication
 """
 
 from mpi4py import MPI

@@ -1,3 +1,9 @@
+"""
+Author : Arun Pottekat
+Domain : Data Mining
+Problem : K Means Clustering
+"""
+
 import math
 fh = open("sample.txt", "r")
 entry = []
